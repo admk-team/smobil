@@ -7,7 +7,7 @@
 @section('content')
     
 <div class="bg-light shadow-md rounded px-4 pt-4 pb-3">
-    <h2 class="text-4 mb-3">DTH Recharge </h2>
+    <h2 class="text-4 mb-3">DTH Recharge</h2>
      <form id="dthRechargeBill" method="post">
      <div class="form-row">
        <div class="col-md-6 col-lg-3 form-group">
